@@ -22,9 +22,9 @@ STEP 6: Plot additional graphs such as the training loss curve and sequence-pred
 
 ## PROGRAM:
 
-### Name: Hariharan S
+### Name: Anwarsha E.M
 
-### Register No: 2305001009
+### Register No: 2305001002
 ```python 
 
 # === Simple LSTM Implementation using TensorFlow-Keras ===
